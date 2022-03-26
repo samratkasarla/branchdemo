@@ -4,6 +4,7 @@ this is not first line
 
 this is second line
 
+<<<<<<< HEAD
 
 
 this is third line
@@ -12,3 +13,9 @@ this is third line
 
 welcome to master
 welcome to dev
+=======
+this is third line
+this is fourth line 
+this is fifth line
+this is sixth line
+>>>>>>> 9d5da1d5b9d8a96b50482efbe21c03ee55d1831f
