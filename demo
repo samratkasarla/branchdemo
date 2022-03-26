@@ -18,4 +18,8 @@ this is third line
 this is fourth line 
 this is fifth line
 this is sixth line
+<<<<<<< HEAD
 >>>>>>> 9d5da1d5b9d8a96b50482efbe21c03ee55d1831f
+=======
+this is seventh line
+>>>>>>> 5438da94bb0b5a2c5fb00efb83441495146685c4
